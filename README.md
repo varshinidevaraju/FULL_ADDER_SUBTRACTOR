@@ -48,8 +48,12 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+![de4](https://github.com/varshinidevaraju/FULL_ADDER_SUBTRACTOR/assets/144870750/a52298c4-d01e-470d-b300-e9984a2dad5d)
+
 
 **Output Timing Waveform**
+![de42](https://github.com/varshinidevaraju/FULL_ADDER_SUBTRACTOR/assets/144870750/23fd3afa-d276-4869-94bd-9c7df3759263)
+
 
 **Result:**
 
